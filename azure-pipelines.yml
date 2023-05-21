@@ -36,4 +36,3 @@ steps:
 
     codeCoverageEnabled: true
 
-    otherConsoleOptions: '/framework:".NETCoreApp,Version=3.0"'
